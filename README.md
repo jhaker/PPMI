@@ -1,2 +1,2 @@
 # PPMI
-Parkinson's Progressive Markers Initiative
+Parkinson's Progression Markers Initiative
